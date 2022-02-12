@@ -1,5 +1,5 @@
 # StopWatch
-a simple StopWatch using only JS
+a simple StopWatch using only JavaScript
 
 <h2>StopWatch</h2> 
 
